@@ -39,7 +39,7 @@ The system follows a modular processing pipeline:
 ## Model Architecture: U-Net with ResNet50 Encoder
 
 
-::contentReference[oaicite:0]{index=0}
+<img width="344" height="147" alt="image" src="https://github.com/user-attachments/assets/1101d151-f52b-4289-a802-a2083c7b69eb" />
 
 
 ### Overview
@@ -84,7 +84,6 @@ ResNet50 replaces the standard U-Net encoder.
 ## Datasets
 
 
-::contentReference[oaicite:1]{index=1}
 
 
 ### UAVid Dataset
