@@ -1,18 +1,44 @@
-# Vision-Based-Navigation-for-Drones-using-ML
-Unmanned Aerial Vehicles (UAVs) have become indispensable across several domains. However, their heavy reliance on GPS signals exposes them to spoofing, jamming, and denial-of-service attacks, creating risks in critical operations. In conclusion we propose a vision-based navigation framework that integrates CNNs, SLAM, and path-planning algorithms.
+# Vision-Based Navigation System for Drones
 
-🎯 Objectives
+## Overview
+A vision-based autonomous navigation system for drones using computer vision and machine learning techniques.  
+The system enables drones to perceive their environment, detect obstacles, and plan safe navigation paths using camera input.
 
-Enable autonomous navigation using vision-based perception
+This project is developed as part of an academic research effort focused on autonomous systems, AI-driven navigation, and secure system design.
 
-Detect and classify environmental features such as:
+---
 
-Roads
+## Objectives
+- Enable autonomous navigation using vision-based perception
+- Detect and classify environmental features (roads, buildings, obstacles)
+- Support outdoor and urban environments
+- Establish a foundation for secure and resilient drone navigation systems
 
-Buildings
+---
 
-Obstacles
+## System Architecture
+The system follows a modular processing pipeline:
 
-Support outdoor and urban environments
+1. Image Acquisition  
+2. Feature Extraction & Classification  
+3. Environment Understanding  
+4. Navigation & Path Planning  
+5. Obstacle Avoidance  
 
-Lay groundwork for secure and resilient drone navigation systems
+---
+
+## Technologies & Tools
+- Python
+- OpenCV
+- Convolutional Neural Networks (CNN)
+- PyTorch / TensorFlow
+- Aerial image datasets
+- Linux / Docker (optional)
+
+---
+
+
+
+
+
+
