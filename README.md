@@ -39,7 +39,7 @@ The system follows a modular processing pipeline:
 ## Model Architecture: U-Net with ResNet50 Encoder
 
 
-<img width="344" height="147" alt="image" src="https://github.com/user-attachments/assets/1101d151-f52b-4289-a802-a2083c7b69eb" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/1101d151-f52b-4289-a802-a2083c7b69eb" />
 
 
 ### Overview
